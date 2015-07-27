@@ -1,3 +1,5 @@
+# From github/gitignore
+#################################################
 # Object files
 *.o
 *.ko
@@ -30,3 +32,8 @@
 
 # Debug files
 *.dSYM/
+
+#################################################
+
+# Ignore [not-so-]confidential files
+confidential/*
